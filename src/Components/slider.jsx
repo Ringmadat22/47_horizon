@@ -21,6 +21,7 @@ function SimpleSlider() {
         <div>
           <h3>2</h3>
         </div>
+        
         <div>
           <h3>3</h3>
         </div>
